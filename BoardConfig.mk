@@ -19,7 +19,7 @@
 LOCAL_PATH := device/samsung/n5110
 
 # Inline kernel building
-TARGET_KERNEL_CONFIG := lineageos_n5110_defconfig
+TARGET_KERNEL_CONFIG := twrp_n51xx_defconfig
 
 TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 
